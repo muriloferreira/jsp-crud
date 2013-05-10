@@ -25,7 +25,6 @@
 	<tab number="1" description="Endereço Entrega">
 		<field description="Endereço" column="CODE" type="String" component="textfield" size="10"/>
 	<tab>
-
 </frame>
 
 </body>
