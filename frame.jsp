@@ -21,6 +21,11 @@
 	<field description="Código" column="CODE" type="String" component="textfield" size="10"/>
 	<field description="Descrição" column="DESCRIPTION" type="String" component="textfield" size="100"/>
 	<field description="Status" column="STATUS" type="Integer" component="combobox" table-source="SWSTS" column-source="ID" size="50"/>
+	
+	<tab number="1" description="Endereço Entrega">
+		<field description="Endereço" column="CODE" type="String" component="textfield" size="10"/>
+	<tab>
+
 </frame>
 
 </body>
